@@ -1,0 +1,13 @@
+pandas==2.2.3
+numpy==2.2.6
+transformers==4.55.4
+triton==3.4.0
+trl==0.22.1
+accelerate==1.10.1
+datasets==3.5.1
+evaluate==0.4.5
+tqdm==4.67.1
+scikit-learn==1.7.1
+peft==0.17.1
+bert-score==0.3.13
+matplotlib==3.10.5
