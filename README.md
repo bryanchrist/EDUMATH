@@ -1,6 +1,6 @@
 # EDUMATH
 
-[Paper]() | [Models and Datasets](https://huggingface.co/collections/bryanchrist/edumath-68e5185eabcef5e598ca2b90) 
+[Paper](https://arxiv.org/abs/2510.06965) | [Models and Datasets](https://huggingface.co/collections/bryanchrist/edumath-68e5185eabcef5e598ca2b90) 
 
 This codebase is based off the paper EDUMATH: Generating Standards-aligned Educational Math Word Problems, and includes code for interacting with the EDUMATH models and STEM dataset as well as code for all experiments reported in the paper. 
 
@@ -67,5 +67,13 @@ To train EDUMATH 12B, you first need to run sft.py followed by kto.py. To train 
 
 # Citation
 ```bash
-
+@misc{christ2025edumathgeneratingstandardsalignededucational,
+      title={EDUMATH: Generating Standards-aligned Educational Math Word Problems}, 
+      author={Bryan R. Christ and Penelope Molitz and Jonathan Kropko and Thomas Hartvigsen},
+      year={2025},
+      eprint={2510.06965},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.06965}, 
+}
 ```
