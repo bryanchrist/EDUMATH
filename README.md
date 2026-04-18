@@ -67,10 +67,10 @@ To train EDUMATH 12B, you first need to run sft.py followed by kto.py. To train 
 
 # Citation
 ```bash
-@misc{christ2025edumathgeneratingstandardsalignededucational,
+@misc{christ2026edumathgeneratingstandardsalignededucational,
       title={EDUMATH: Generating Standards-aligned Educational Math Word Problems}, 
-      author={Bryan R. Christ and Penelope Molitz and Jonathan Kropko and Thomas Hartvigsen},
-      year={2025},
+      author={Bryan R. Christ and Penelope Molitz and Beau LeBlond and Zachary Gottesman and Jonathan Kropko and Thomas Hartvigsen},
+      year={2026},
       eprint={2510.06965},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
